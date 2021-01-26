@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  - provider: github
+    private: false
+    owner: daatyson
+    repo: open-test-electron
+appId: com.example.yourapp
+mac:
+  category: your.app.category.type
+  target:
+    - zip
+    - dmg
+electronVersion: 3.1.13

@@ -1,0 +1,9 @@
+version: 0.7.3
+files:
+  - url: electron-updater-example-0.7.3-x86_64.AppImage
+    sha512: sYDFip2Kyhi3CWzQCqfeT4uPf7oB0UnUFfn4sj/bIAelHLDEX+/4Npsqo5RYfi6I14Kmrg4oYeQFDeMEP+tUsA==
+    size: 52678569
+    blockMapSize: 55533
+path: electron-updater-example-0.7.3-x86_64.AppImage
+sha512: sYDFip2Kyhi3CWzQCqfeT4uPf7oB0UnUFfn4sj/bIAelHLDEX+/4Npsqo5RYfi6I14Kmrg4oYeQFDeMEP+tUsA==
+releaseDate: '2021-01-26T16:18:45.194Z'
